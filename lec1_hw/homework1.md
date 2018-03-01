@@ -2,7 +2,7 @@
 
 - 完成lec1的视频学习和提交对应的在线练习
   - 已完成lec1视频学习，并完成相应在线练习，如下图所示；
-  - ![Screen Shot 2018-03-01 at 20.14.00](./p1.png)
+    ![Screen Shot 2018-03-01 at 20.14.00](./p1.png)
 - git pull ucore_os_lab, ucore_os_docs, os_tutorial_lab, os_course_exercises in github repos。这样可以在本机上完成课堂练习。
   - 已将ucore_os_lab, ucore_os_docs, os_tutorial_lab, os_course_exercise fork到本人github代码仓库，并且clone到本机使用；
 - 知道OS课程的入口网址，会使用在线视频平台，在线练习/实验平台，在线提问平台(piazza)
@@ -15,7 +15,7 @@
 
 ## 填空题
 
-* 当前常见的操作系统主要用**C和汇编**编程语言编写。
+* 当前常见的操作系统主要用__C和汇编__编程语言编写。
 * "Operating system"这个单词起源于__Operator__。
 * 在计算机系统中，控制和管理__资源__、有效地组织__程序__运行的系统软件称作__操作系统__。
 * 允许多用户将若干个作业提交给计算机系统集中处理的操作系统称为__批处理__操作系统
