@@ -2,7 +2,7 @@
 
 - 完成lec1的视频学习和提交对应的在线练习
   - 已完成lec1视频学习，并完成相应在线练习，如下图所示；
-  - ![Screen Shot 2018-03-01 at 20.14.00](/Users/amadeus/academic_materials/Semester_Spring2018/Operating_Systems/os_exercise_solutions/lec1_hw/p1.png)
+  - ![Screen Shot 2018-03-01 at 20.14.00](./p1.png)
 - git pull ucore_os_lab, ucore_os_docs, os_tutorial_lab, os_course_exercises in github repos。这样可以在本机上完成课堂练习。
   - 已将ucore_os_lab, ucore_os_docs, os_tutorial_lab, os_course_exercise fork到本人github代码仓库，并且clone到本机使用；
 - 知道OS课程的入口网址，会使用在线视频平台，在线练习/实验平台，在线提问平台(piazza)
